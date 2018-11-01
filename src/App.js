@@ -1,6 +1,7 @@
 // based on https://www.valentinog.com/blog/socket-io-node-js-react/
 // npm i socket.io-client
 // npm install
+// To start server do
 // npm start // not yarn - yarn doesn't work
 
 // To jest client ktory slucha socket-io-server
